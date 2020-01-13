@@ -1,0 +1,3 @@
+收集了一些破解软件...
+* XShell6 已破解版
+* jetbrains-agent Idea的破解工具, 包中有使用教程.
